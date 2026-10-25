@@ -1,0 +1,88 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents <<
+/Length 881
+>>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Automatic Research Novelty Assessment Using LLMs and Citation Graphs) Tj
+/F1 12 Tf
+0 -40 Td
+(Abstract) Tj
+/F1 10 Tf
+0 -25 Td
+(Evaluating the novelty of submitted research papers is a high-stakes peer review challenge.) Tj
+0 -15 Td
+(We propose an automated framework combining dense sentence embeddings, RAG, and NetworkX graphs.) Tj
+0 -15 Td
+(Our system calculates a 0-100 novelty score backed by multi-dimensional gap analysis.) Tj
+/F1 12 Tf
+0 -35 Td
+(Keywords) Tj
+/F1 10 Tf
+0 -20 Td
+(Research Novelty, Citation Graphs, Retrieval-Augmented Generation, Peer Review) Tj
+/F1 12 Tf
+0 -35 Td
+(Objectives) Tj
+/F1 10 Tf
+0 -20 Td
+(1. Ingest research paper PDFs and extract structured text.) Tj
+0 -15 Td
+(2. Retrieve peer-reviewed literature dynamically from OpenAlex API.) Tj
+0 -15 Td
+(3. Compute semantic vector similarity and NetworkX citation centrality.) Tj
+ET
+endstream
+>>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+trailer
+<<
+/Size 5
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1254
+%%EOF
